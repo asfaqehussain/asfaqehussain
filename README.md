@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 <br/><br/>
 <!-- <img align="right" alt="Coding" width="300" src="https://global-uploads.webflow.com/618fa90c201104b94458e1fb/6299f18349b8304b2427860a_FP0RnJQZi0ZELYsIYPD8LGQ32iywLflse728ZTmTapBqwFUao__86XpjAZGKUbHUIDQjXZ4OrPuBr1zgf0wk_Kef539Ki1GFWnT9K3qCnz0T5z0IYtp4rX-ZxBu7A09Gwg2-gLu9EcXJF6YzSQ.gif"/> -->
-<h3 align="center">- 🌱 Experienced React Native, React JS developer</h3>
+<h3 align="center">- 🌱 Experienced React Native & React JS developer</h3>
 <h3 align="center">- 💬 Ask me about JS, TS, React Native, Expo, etc.</h3>
 <h3 align="center" >- 📫 Reach me out at asfaqeh@gmail.com</h3>
 
